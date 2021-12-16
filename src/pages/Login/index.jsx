@@ -19,12 +19,12 @@ function App() {
                     </div>
 
                     <div className="lado-direito-login">
-                        <p className="title-login">Crie sua conta</p>
+                        <p className="title-login">Entre com sua conta</p>
 
                         <input className='input-login' type="email" placeholder='Email' />
                         <input className='input-login' type="password" placeholder='Senha' />
 
-                        <div className='cta-login' variant='contained'>Cadastrar </div>
+                        <div className='cta-login' variant='contained'>Acessar </div>
 
                         <p className='ou'>ou</p>
 
